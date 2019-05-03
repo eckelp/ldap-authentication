@@ -1,2 +1,2 @@
-## Example to connect LDAP server
+## Example for LDAP Authentication with Spring Boot and JWT
 
